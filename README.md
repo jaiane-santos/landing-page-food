@@ -1,7 +1,5 @@
   <h1>Landing Page de Restaurante</h1>
   
-
-
 <h2>Descrição</h2>
 Este projeto é uma landing page responsiva para um restaurante, desenvolvida com o objetivo de proporcionar uma interface atraente e fácil de usar para os visitantes. A página inclui informações sobre o restaurante, cardápio e avaliações.
 
